@@ -1,1 +1,1 @@
-<h3> A Simpel Clculator Using HTML ,CSS and JavaScript</h3>
+<h3> A Simpel Calculator Using HTML ,CSS and JavaScript</h3>
